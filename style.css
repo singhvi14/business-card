@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+    font-family: Poopins(sans serif);
+    
+}
+
+.avatar {
+    width: 180px;
+    margin-left: 5px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #CDEEFF;
+    color: black;
+    border-bottom: 6px solid lightcoral;
+    ;
+}
+
+.mh {
+    color: lightcoral;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.card h4 {
+    margin-top: 5px; /* Adjust the top margin to reduce space */
+  }
+
+/* .border-blue {
+    border: 1px dotted blue;
+} */
+
+
+
